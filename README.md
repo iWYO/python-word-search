@@ -2,11 +2,13 @@
 
 A powerful, customizable Python tool that generates random Word Search puzzles. It takes a list of words, places them into a grid using a smart algorithm, and exports print-ready **Microsoft Word (.docx)** and **PDF** files.
 
-![Word Search Puzzle Demo](assets/demo.png)
+<p align="center">
+  <img src="assets/demo.png" alt="Word Search Demo" width="400">
+</p>
+
 It features adjustable difficulty levels, automated file numbering, and a fully customizable Word template system.
 
 ## ✨ Features
-...
 
 * **Smart Generation:** Places words horizontally, vertically, and diagonally (forward and backward).
 * **Difficulty Scaling:** Automatically calculates how many words to hide based on the grid size and chosen difficulty (Easy, Medium, Hard, Impossible).
@@ -18,7 +20,7 @@ It features adjustable difficulty levels, automated file numbering, and a fully 
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/word-search-generator.git](https://github.com/YOUR-USERNAME/word-search-generator.git)
+    git clone [https://github.com/iwyo/python-word-search.git](https://github.com/iwyo/python-word-search.git)
     cd word-search-generator
     ```
 
